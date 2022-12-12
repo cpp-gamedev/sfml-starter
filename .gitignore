@@ -8,9 +8,3 @@ out/*
 CMakeSettings.json
 compile_commands.json
 /CMakeUserPresets.json
-
-wiki
-imgui.ini
-
-levk.log*
-levk.conf*
